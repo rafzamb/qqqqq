@@ -18,3 +18,5 @@ summary(VADeaths)
 dotchart(VADeaths, main = "Death Rates in Virginia - 1940")
 xasxa
 ascxasca
+
+1111
